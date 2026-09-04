@@ -1,0 +1,2 @@
+# Structural-Break-Identification-using-CIKw_R-code
+This repository contains the R code for implementing the CIKw-GLRT Binary Segmentation procedure and reproducing the numerical results in the manuscript. It includes CIKw data generation, PSO-based parameter estimation, GLRT, bootstrap calibration, change-point detection, model selection, simulations, performance evaluation, and graphical outputs.
